@@ -1,0 +1,25 @@
+FINAL SERIES 2024
+
+0001.mp4 Pitcher: Cole, Gerrit   |    Hitter: Ohtani, Shoei        | Count 0 - 0 | Official Call: BALL    | Model Call: 
+0002.mp4 Pitcher: Cole, Gerrit   |    Hitter: Ohtani, Shoei        | Count 0 - 1 | Official Call: STRIKE  | Model Call: 
+0003.mp4 Pitcher: Cole, Gerrit   |    Hitter: Betts, Mookie        | Count 0 - 0 | Official Call: STRIKE  | Model Call: 
+0004.mp4 Pitcher: Cole, Gerrit   |    Hitter: Freeman, Freddie     | Count 0 - 0 | Official Call: BALL    | Model Call: 
+0005.mp4 Pitcher: Cole, Gerrit   |    Hitter: Freeman, Freddie     | Count 1 - 1 | Official Call: BALL    | Model Call: 
+0006.mp4 Pitcher: Cole, Gerrit   |    Hitter: Freeman, Freddie     | Count 2 - 1 | Official Call: BALL    | Model Call: 
+0007.mp4 Pitcher: Cole, Gerrit   |    Hitter: Freeman, Freddie     | Count 3 - 1 | Official Call: BALL    | Model Call: 
+
+
+OHTANI RETURN
+
+0008.mp4 Pitcher: Ohtani, Shoei  |    Hitter: Tatis Jr., Fernando  | Count 0 - 1 | Official Call: BALL    | Model Call: 
+0009.mp4 Pitcher: Ohtani, Shoei  |    Hitter: Tatis Jr., Fernando  | Count 1 - 1 | Official Call: BALL    | Model Call: 
+0010.mp4 Pitcher: Ohtani, Shoei  |    Hitter: Tatis Jr., Fernando  | Count 2 - 1 | Official Call: BALL    | Model Call:
+0011.mp4 Pitcher: Ohtani, Shoei  |    Hitter: Arraez, Luis         | Count 2 - 1 | Official Call: STRIKE  | Model Call:
+0012.mp4 Pitcher: Ohtani, Shoei  |    Hitter: Sheets, Gavin        | Count 0 - 1 | Official Call: STRIKE  | Model Call:
+0013.mp4 Pitcher: Ohtani, Shoei  |    Hitter: Bogaerts, Xander     | Count 0 - 0 | Official Call: STRIKE  | Model Call:
+0014.mp4 Pitcher: Ohtani, Shoei  |    Hitter: Wood, James          | Count 0 - 0 | Official Call: STRIKE  | Model Call:
+
+
+
+
+

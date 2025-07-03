@@ -1,0 +1,8 @@
+# File di grandi dimensioni e Dataset
+datasets/
+runs/
+
+# File di sistema e cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
